@@ -72,8 +72,8 @@ Run each terminal long enough that you can show the significant events in your s
 3.	Did you use one consumer with 3 queues (or 3 consumers each with one queue): Actually, I looked for both options, but the option of one consumer is a more efficient manner to manage the process and computing resources.
 4.	Why:  Actually, I looked for both options, but the option of one consumer is a more efficient manner to manage the process and computing resources.
 5.	When did a Smoker Alert occur? Readings every 2.5mins
-6.	When did a Food A stall occur: no message
-7.	When did a Food B stall occur: no message
+6.	When did a Food A stall occur: no message, some issues and limit operation.
+7.	When did a Food B stall occur: no message, some issues and limit operation.
 8.	What was most difficult about this module:   Certainly, some of the coding was tricky and the configuration issues mentioned before. Still having configuration issues with my laptop, some slow internet connection, cut off the connection.  I was running a duplicate Python scenarios creatin some issues in VS Code Editor.  Will reconfigure the entire laptop next week before next class starts.  Some issues debugging limit operation. 
 9.	What was most interesting:  dealing with the concurrent process
 10.	In a real system, you'd want to get alerts from your smart smoker - maybe a text message.

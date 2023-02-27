@@ -67,7 +67,7 @@ Run each terminal long enough that you can show the significant events in your s
 3.	Visible Food B stall with timestamp
 # Submit
 # Part 1 - Project 
-1.	Clickable link to your public GitHub repo(s) with custom README and displayed screenshots: 
+1.	Clickable link to your public GitHub repo(s) with custom README and displayed screenshots:  https://github.com/rtmtorresmorales/streaming-06-smart-smoker-A6-Consumers-Windowing-and-Multiple-Ch-A6an-
 2.	About how long did you spend this module:  about five hours
 3.	Did you use one consumer with 3 queues (or 3 consumers each with one queue): Actually, I looked for both options, but the option of one consumer is a more efficient manner to manage the process and computing resources.
 4.	Why:  Actually, I looked for both options, but the option of one consumer is a more efficient manner to manage the process and computing resources.

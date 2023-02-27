@@ -97,7 +97,7 @@ From the Module 4: Overview, paste the numbered list of objectives and assess yo
 At the end of this module students will be able to:
 1.	Present information about the state of the art in streaming data. (L07) Proficient.
 2.	Discuss how tools and technologies can be used in conjunction with each other to work with streaming data. (L07) Proficient.
-![image](https://user-images.githubusercontent.com/111456228/221686133-65f827b0-194f-466c-ba72-e2bf334ea7a2.png)
+
 
 ![image](https://user-images.githubusercontent.com/111456228/221131576-e2739cc6-1f94-4ea9-989a-e115d9735e98.png)
 

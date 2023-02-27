@@ -1,10 +1,6 @@
 """
     This program listens for work messages contiously.
 
-    !!!!!The smart_smoker_emitter.py must run to start sending the messages first!!!!!
-
-    Name: DeeDee Walker
-    Date: 2/19/23
 
     We want know if (Condition To monitor):
     The smoker temperature decreases by more than 15 degrees F in 2.5 minutes (smoker alert!)
@@ -24,7 +20,7 @@
     Three listening queues: 01-smoker, 02-food-A, 02-food-B
     Three listening callback functions: smoker_callback, fooda_callback, foodb_callback
 
-    !!!!!Start the emitter first or it closes out the listener since the queue delete is part of the script!!!!!
+   
 """
 import pika
 import sys

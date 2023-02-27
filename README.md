@@ -65,7 +65,19 @@ Run each terminal long enough that you can show the significant events in your s
 1.	Visible Smoker Alert with timestamp
 2.	Visible Food A stall with timestamp
 3.	Visible Food B stall with timestamp
-# Submit
+# Data
+Temperatures readings from a BBQ smoker, for Food A and Food B, time stamp temparature readings
+# Output
+String binary with time and temperature reading
+# Programs
+One csv data file, one smoker messages producer, convert and send messages, one somker consumer reads messages and prints alerts.
+# General instructions
+1. Open two terminals
+2. csv file access
+3. run smoker message generator on one terminal
+4. run smoker consumer on the other terminal
+5.Ctl-C will stop the process
+
 # Part 1 - Project 
 1.	Clickable link to your public GitHub repo(s) with custom README and displayed screenshots:  https://github.com/rtmtorresmorales/streaming-06-smart-smoker-A6-Consumers-Windowing-and-Multiple-Ch-A6an-
 2.	About how long did you spend this module:  about five hours

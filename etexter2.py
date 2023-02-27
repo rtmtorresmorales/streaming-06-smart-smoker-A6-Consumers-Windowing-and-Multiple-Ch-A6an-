@@ -1,9 +1,7 @@
 """
 Send a text with Python.
 Author: Denise Case
-Date: 2022-12-27
-Student/Editor: DeeDee Walker
-Date: 2/19/23
+
 We'll need an outgoing email service -
 this example uses a gmail account.
 uses:

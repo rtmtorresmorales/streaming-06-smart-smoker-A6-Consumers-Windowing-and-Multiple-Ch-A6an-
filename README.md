@@ -33,11 +33,11 @@ General Design
 3.	How many listening callback functions do we need (Hint: one per queue): Three callback functions are needed.
  General Instructions:
 ________________________________________
-Task 1. Open Your Existing Project
+# Task 1. Open Your Existing Project
 1.	On your machine, open your existing streaming-05-getting-started repo in VS Code.
 2.	Create a file for your consumer (or 3 files if you'd like to use 3 consumers).
  
-Task 2. Design and Implement Each Consumer
+# Task 2. Design and Implement Each Consumer
 1.	Design and implement each bbq consumer. You could have one. You could have 3.  More detailed help provided in links below. 
 2.	Use the logic, approach, and structure from prior modules (use the recommended versions).
 3.	Modifying them to serve your purpose IS part of the assignment.
@@ -45,7 +45,7 @@ Task 2. Design and Implement Each Consumer
 5.	Use comments in the code and repo to explain your work. 
 6.	Use docstring comments and add your name and date to your README and your code files. 
  
-Task 3. Professionally Present your Project
+# Task 3. Professionally Present your Project
 1.	Explain your project in the README.
 2.	Include your name, date.
 3.	Include prerequisites and how to run your code. 
@@ -65,8 +65,8 @@ Run each terminal long enough that you can show the significant events in your s
 1.	Visible Smoker Alert with timestamp
 2.	Visible Food A stall with timestamp
 3.	Visible Food B stall with timestamp
-Submit
-Part 1 - Project 
+# Submit
+# Part 1 - Project 
 1.	Clickable link to your public GitHub repo(s) with custom README and displayed screenshots: 
 2.	About how long did you spend this module:  about five hours
 3.	Did you use one consumer with 3 queues (or 3 consumers each with one queue): Actually, I looked for both options, but the option of one consumer is a more efficient manner to manage the process and computing resources.
@@ -80,9 +80,10 @@ Part 1 - Project
 1.	Did you experiment with adding alerts to the project and getting an email or text when the smoker alerted? I started reviewing the process, did not test it.  But I strongly believe in early alerts of any processes to take early action of control and monitoring.
 2.	Would you be able to add this feature if implementing a similar system in real life? This will certainly will a significant impact on society, families, and quality of life.  These alarms may monitor by the patient, family, doctors and even a health call center.  I could image having a call center to monitor this another vital signs. In addition, to financial applications, account balances, deposits, production stoppages, stock alerts, order processing.
 3.	Optional bonus: Did you successfully implement an alert (and clearly show it in your README.md and repo)?  Like I mentioned before started looking at options but did not implement an option. 
-Part 2 - Self Assessment
+# Part 2 - Self Assessment
 From the Module 4: Overview, paste the numbered list of objectives and assess your ability on each as "Highly proficient", "Proficient", or "Not Proficient":
 At the end of this module students will be able to:
 1.	Present information about the state of the art in streaming data. (L07) Proficient.
 2.	Discuss how tools and technologies can be used in conjunction with each other to work with streaming data. (L07) Proficient.
+![image](https://user-images.githubusercontent.com/111456228/221686133-65f827b0-194f-466c-ba72-e2bf334ea7a2.png)
 

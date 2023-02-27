@@ -1,8 +1,8 @@
 # streaming-06-smart-smoker-A6-Consumers-Windowing-and-Multiple-Ch-A6an-
 Ramón Torres
 February 27, 2023
-Github repository:
-The Problem / Challenge To Solve: Smart Smoker System
+# Github repository: https://github.com/rtmtorresmorales/streaming-06-smart-smoker-A6-Consumers-Windowing-and-Multiple-Ch-A6an-
+# The Problem / Challenge To Solve: Smart Smoker System
 •	Read about the Smart Smoker system here: Smart Smoker
 •	We read one value every half minute. (sleep_secs = 30)
 smoker-temps.csv has 4 columns:
